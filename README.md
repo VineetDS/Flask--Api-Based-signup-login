@@ -4,3 +4,5 @@ This repository provides a simple and secure API for user login and signup using
 The code uses Bcrypt for secure password hashing and verification, ensuring user data protection. 
 
 I have used Postman to handle api requests.
+
+Use sqldb.sql file to create database and table to store credentials of users.
